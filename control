@@ -1,0 +1,9 @@
+Package: com.kingpuffdaddi.tweetbotoauth
+Name: TweetbotOAuth
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: KingPuffdaddi
+Author: KingPuffdaddi
+Section: Tweaks
